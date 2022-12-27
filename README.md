@@ -6,7 +6,7 @@ This repository contains a report on the 3 papers present in the [papers](papers
 ## IS REINFORCEMENT LEARNING (NOT) FOR NATURAL LANGUAGE PROCESSING?: BENCHMARKS, BASELINES, AND BUILDING BLOCKS FOR NATURAL LANGUAGE POLICY OPTIMIZATION
 
 #### Problem :
-- Aligning pre-trained large language models with human preferences (and Naturalness).
+- Aligning pre-trained language models with human preferences (and Naturalness).
 - RL training instability.
 - Open source tools for RL in NLP.
   
@@ -51,7 +51,7 @@ $Z^p(\pi_\theta) = \sum_{a\in\mathcal V^p_{\pi_\theta}} \pi_{\theta_0}(a|s)$
 ## Aligning Generative Language Models with Human Values
 
 #### Problem :
-- Aligning pre-trained large language models with human values and ethics.
+- Aligning pre-trained language models with human values and ethics.
 - Dealing with Out-of-domain human values.
 
 ![gpt2_poor](assets/GPT2_poor.jpg)
