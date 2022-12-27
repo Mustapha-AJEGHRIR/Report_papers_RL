@@ -70,3 +70,12 @@ $Z^p(\pi_\theta) = \sum_{a\in\mathcal V^p_{\pi_\theta}} \pi_{\theta_0}(a|s)$
 #### Results :
 
 ![Sensei results](assets/sensei_results.jpg)
+
+
+---
+
+## Scaling Laws for Reward Model Overoptimization
+
+#### Problem :
+- To which extent the reward model can be optimized (no overoptimization) ?
+- Scaling laws for reward models.
